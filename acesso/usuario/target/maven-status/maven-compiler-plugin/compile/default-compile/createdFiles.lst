@@ -1,0 +1,5 @@
+com/usuario/UsuarioApplication.class
+com/usuario/security/ResourceServerConfig.class
+com/usuario/UsuarioController.class
+com/usuario/security/Usuario.class
+com/usuario/security/UsuarioPrincipalExtractor.class
